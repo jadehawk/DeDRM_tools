@@ -1,4 +1,4 @@
-"""Format-aware validation for compressed and uncompressed DRMION components.
+"""Format-aware validation for compressed and uncompressed DRMION components. Provided by @Jadehawk
 
 A compressed candidate is ALWAYS handled by the preexisting LZMA oracle.
 An uncompressed candidate is accepted only when a minimum of three separated,
